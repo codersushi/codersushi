@@ -28,7 +28,7 @@
 ---
 
 ## Featured Projects
-- #### Radon Radar – Awarded "Most Innovative Solution" by UNCC **[Submitted To 2026 UNCC Hackathon]**
+- #### Radon Radar – Awarded "Most Innovative Solution" by UNCC **[Submitted To 2026 UNCC Teen Hackathon]**
 - [Visit Website (Hosted on Render)](https://radonradar.onrender.com/)
 
 ---
