@@ -54,4 +54,4 @@
 
 ## Connect With Me
 - GitHub: https://github.com/codersushi  
-- Email: sushiminiworld@email.com  
+- Email: sushiminiworld@gmail.com  
