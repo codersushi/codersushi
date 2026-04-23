@@ -20,8 +20,8 @@
 ---
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js (if applicable)  
+- Frontend: HTML, CSS, JavaScript, React, Next.js  
+- Backend: Node.js, Python, Next.js
 - Tools: Git, GitHub, VS Code, and Tiled
 - Deployment: GitHub Pages and Render 
 
