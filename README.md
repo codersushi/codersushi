@@ -29,12 +29,16 @@
 
 ## Featured Projects
 - #### Radon Radar – Awarded "Most Innovative Solution" by UNCC **[Submitted To 2026 UNCC Teen Hackathon]**
-- [Visit Website (Hosted on Render)](https://radonradar.onrender.com/)
+- (https://radonradar.onrender.com/)
 
 ---
 
 - #### Survive The Month – Financial simulation web app **[Submitted To Hackonomics26]**
 - (https://codersushi.github.io/Hackonomics26-SurviveTheMonth/)
+---
+
+- #### Hydrogen Sulfide Radar – Detects Harmful H2S Levels **[Submitted To LUMA Hackathon]**
+- (https://hydrogensulfide-radar-1.onrender.com/)
 ---
 
 ## GitHub Stats
