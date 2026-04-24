@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+ <img width="3840" height="1440" alt="GitHub Banner (5)" src="https://github.com/user-attachments/assets/ba668aaf-4df6-4cd2-84fb-2854ac18ffe9" />
 </p>
 
 ## About Me
