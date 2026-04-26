@@ -33,7 +33,7 @@
 
 ---
 
-- #### Survive The Month – Financial simulation web app **[Submitted To Hackonomics26]**
+- #### Survive The Month – Financial Simulation/Web-Based Survival Game
 - (https://codersushi.github.io/Hackonomics26-SurviveTheMonth/)
 ---
 
