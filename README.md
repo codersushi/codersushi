@@ -1,12 +1,14 @@
 <div align="center">
 
 <p align="center">
- <img width="3840" height="1440" alt="GitHub Banner (5)" src="https://github.com/user-attachments/assets/ba668aaf-4df6-4cd2-84fb-2854ac18ffe9" />
+ <img width="3840" height="1440" alt="GitHub Banner (11)" src="https://github.com/user-attachments/assets/d58a28e2-8fd0-411d-a593-dc2f75bab3e0" />
 </p>
 
 ## About Me
 
 **Hi, I'm Sushanth Dhilipvenkatesh, But Call Me Sushi!**
+
+
 ```python
 print("Student / Developer / Builder")
 
@@ -17,11 +19,17 @@ console.info("I enjoy building projects that solve real-world problems");
 echo "Always learning and experimenting with new tech!"
 ```
 
----
 
-<strong> "sometimes it's best to let life take its course"</strong><br/>
+<strong> *"sometimes it's best to let life take its course, but always bring a compass"* </strong><br/>
 — Sushi
 
+---
+
+## Achievements + Awards
+
+```
+Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
+```
 ---
 
 ## Tech Stack
@@ -42,20 +50,22 @@ echo "Always learning and experimenting with new tech!"
 *[Submitted To 2026 UNCC Teen Hackathon]*
 
 
-(https://radonradar.onrender.com/)
+(https://radonradar.onrender.com)  
 
----
+································································································································································································
+
 
 #### Survive The Month – Financial Simulation/Web-Based Survival Game
-(https://codersushi.github.io/Hackonomics26-SurviveTheMonth/)
+(https://codersushi.github.io/Hackonomics26-SurviveTheMonth)  
 
----
+································································································································································································
+
 
 #### Hydrogen Sulfide Radar – Detects Harmful H2S Levels
 *[Submitted To LUMA Hackathon]*
 
 
-(https://hydrogensulfide-radar-1.onrender.com/)
+(https://hydrogensulfide-radar-1.onrender.com)  
 
 ---
 
