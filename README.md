@@ -1,61 +1,82 @@
+<div align="center">
+
 <p align="center">
  <img width="3840" height="1440" alt="GitHub Banner (5)" src="https://github.com/user-attachments/assets/ba668aaf-4df6-4cd2-84fb-2854ac18ffe9" />
 </p>
 
 ## About Me
+
 **Hi, I'm Sushanth Dhilipvenkatesh, But Call Me Sushi!**
-- Student / Developer / Builder  
-- Passionate about web development, robotics, and hackathons  
-- I enjoy building projects that solve real-world problems  
-- Always learning and experimenting with new tech  
+```python
+print("Student / Developer / Builder")
+```
+```javascript
+console.log("Passionate about web development, robotics, and hackathons");
+```
+```typescript
+console.info("I enjoy building projects that solve real-world problems");
+```
+```bash
+echo "Always learning and experimenting with new tech!"
+```
 
 ---
 
-<p align="center">
-  <strong> "sometimes it's best to let life take its course"</strong><br/>
-  — Sushi
-</p>
-
+<strong> "sometimes it's best to let life take its course"</strong><br/>
+— Sushi
 
 ---
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript, React, Next.js  
-- Backend: Node.js, Python, Next.js
-- Tools: Git, GitHub, VS Code, and Tiled
-- Deployment: GitHub Pages and Render 
+
+| Layer | Technology |
+|---|---|
+| Backend | Node.js, Python, Next.js, Flask |
+| Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript |
+| Tools | Git, GitHub, VS Code, and Tiled |
+| Frontend | Next.js 16, React 19, TypeScript, Tailwind CSS, Leaflet, Lucide React |
+| Deployment | GitHub Pages and Render |
 
 ---
 
 ## Featured Projects
-- #### Radon Radar – Awarded "Most Innovative Solution" by UNCC **[Submitted To 2026 UNCC Teen Hackathon]**
-- (https://radonradar.onrender.com/)
+
+#### Radon Radar - Detects Harmful Radon Levels
+*[Submitted To 2026 UNCC Teen Hackathon]*
+
+
+(https://radonradar.onrender.com/)
 
 ---
 
-- #### Survive The Month – Financial Simulation/Web-Based Survival Game
-- (https://codersushi.github.io/Hackonomics26-SurviveTheMonth/)
+#### Survive The Month – Financial Simulation/Web-Based Survival Game
+(https://codersushi.github.io/Hackonomics26-SurviveTheMonth/)
+
 ---
 
-- #### Hydrogen Sulfide Radar – Detects Harmful H2S Levels **[Submitted To LUMA Hackathon]**
-- (https://hydrogensulfide-radar-1.onrender.com/)
+#### Hydrogen Sulfide Radar – Detects Harmful H2S Levels
+*[Submitted To LUMA Hackathon]*
+
+
+(https://hydrogensulfide-radar-1.onrender.com/)
+
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codersushi&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codersushi&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight)
 
 ---
 
 ## Connect With Me
-- GitHub: https://github.com/codersushi  
-- Email: sushiminiworld@gmail.com  
+
+GitHub: [codersushi](https://github.com/codersushi)
+
+
+Email: sushiminiworld@gmail.com
+
+</div>
