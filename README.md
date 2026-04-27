@@ -9,14 +9,11 @@
 **Hi, I'm Sushanth Dhilipvenkatesh, But Call Me Sushi!**
 ```python
 print("Student / Developer / Builder")
-```
-```javascript
+
 console.log("Passionate about web development, robotics, and hackathons");
-```
-```typescript
+
 console.info("I enjoy building projects that solve real-world problems");
-```
-```bash
+
 echo "Always learning and experimenting with new tech!"
 ```
 
