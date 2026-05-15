@@ -46,23 +46,8 @@ Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
 ## Featured Projects
 
-#### Radon Radar - Detects Harmful Radon Levels
-*[Submitted To 2026 UNCC Teen Hackathon]*
-
-
-(https://radonradar.onrender.com)  
-
-································································································································································································
-
-
-#### Survive The Month – Financial Simulation/Web-Based Survival Game
-(https://codersushi.github.io/Hackonomics26-SurviveTheMonth)  
-
-································································································································································································
-
 
 #### Hydrogen Sulfide Radar – Detects Harmful H2S Levels
-*[Submitted To LUMA Hackathon]*
 
 
 (https://hydrogensulfide-radar-1.onrender.com)  
