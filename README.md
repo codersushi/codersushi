@@ -56,8 +56,6 @@ Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
 ## GitHub Stats
 
-<div align="center">
-
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight" />
 
 
@@ -65,8 +63,6 @@ Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
