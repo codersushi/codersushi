@@ -67,13 +67,17 @@ I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The 
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=codersushi&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=codersushi&theme=tokyonight" />
-
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
