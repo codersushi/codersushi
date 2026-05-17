@@ -48,9 +48,9 @@ I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The 
 
 ## Featured Projects
 
-<img width="960" height="360" alt="GitHub Banner (8)" src="https://github.com/user-attachments/assets/d9d735c2-4c5d-445a-a757-a7d2603e2255" />
+<img width="720" height="270" alt="GitHub Banner (8)" src="https://github.com/user-attachments/assets/d9d735c2-4c5d-445a-a757-a7d2603e2255" />
 
-#### Hydrogen Sulfide Radar – Detects Harmful H2S Levels
+#### Hydrogen Sulfide Detector – Detects Harmful H2S Levels
 
 
 (https://hydrogensulfide-radar-1.onrender.com)  
@@ -58,7 +58,7 @@ I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The 
 
 ································································································································································································
 
-<img width="960" height="360" alt="GitHub Banner (15)" src="https://github.com/user-attachments/assets/bb1c51eb-62ff-4d21-ae94-f801adebbc5f" />
+<img width="720" height="270" alt="GitHub Banner (15)" src="https://github.com/user-attachments/assets/bb1c51eb-62ff-4d21-ae94-f801adebbc5f" />
 
 #### Beyond The Bot – Vex Robotics (V5RC) Showcase
 
