@@ -29,6 +29,8 @@ echo "Always learning and experimenting with new tech!"
 
 ```
 Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
+
+I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The Bot
 ```
 ---
 
@@ -51,6 +53,15 @@ Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
 
 (https://hydrogensulfide-radar-1.onrender.com)  
+
+
+································································································································································································
+
+
+#### Beyond The Bot – Vex Robotics (V5RC) Showcase
+
+
+(https://beyond-the-bot.vercel.app)
 
 ---
 
