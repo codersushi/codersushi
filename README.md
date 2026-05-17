@@ -53,7 +53,7 @@ I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The 
 #### Hydrogen Sulfide Detector – Detects Harmful H2S Levels
 
 
-(https://hydrogensulfide-radar-1.onrender.com)  
+https://hydrogensulfide-radar-1.onrender.com  
 
 
 ································································································································································································
@@ -63,7 +63,7 @@ I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The 
 #### Beyond The Bot – Vex Robotics (V5RC) Showcase
 
 
-(https://beyond-the-bot.vercel.app)
+https://beyond-the-bot.vercel.app
 
 ---
 
