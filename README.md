@@ -36,11 +36,11 @@ Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
 | Layer | Technology |
 |---|---|
-| Backend | Node.js, Python, Next.js, Flask |
+| Backend | Node.js, Next.js, Flask |
 | Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript |
 | Tools | Git, GitHub, VS Code, and Tiled |
 | Frontend | Next.js 16, React 19, TypeScript, Tailwind CSS, Leaflet, Lucide React |
-| Deployment | GitHub Pages and Render |
+| Deployment | GitHub Pages, Render, Vercel |
 
 ---
 
@@ -56,19 +56,28 @@ Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codersushi&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight)
+
+<img height="180em" src="https://streak-stats.demolab.com?user=codersushi&theme=tokyonight" />
+
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
 ## Connect With Me
 
-GitHub: [codersushi](https://github.com/codersushi)
+GitHub: https://github.com/codersushi
 
 
 Email: sushiminiworld@gmail.com
+
+
+Vercel: https://vercel.com/codersushi
 
 </div>
