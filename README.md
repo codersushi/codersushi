@@ -63,8 +63,9 @@ https://hydrogensulfide-radar-1.onrender.com
 #### Beyond The Bot – Vex Robotics (V5RC) Showcase
 
 
-https://beyond-the-bot.vercel.app
-
+```
+The Link is Currently Hidden Until The 2026 - 2027 VEX V5 Override Season Ends
+```
 ---
 
 ## GitHub Stats
