@@ -30,7 +30,7 @@ echo "Always learning and experimenting with new tech!"
 ```
 Most Innovative Solution - Awarded by UNCC (2026 Teen Hackathon) for Radon Radar
 
-I Built My First Website to Showcase My VEX V5RC Robotics Journey! - Beyond The Bot
+Beyond The Bot - I Built My First Website to Showcase My VEX V5RC Robotics Journey!
 ```
 ---
 
