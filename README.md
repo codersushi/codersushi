@@ -39,9 +39,8 @@ Beyond The Bot - I Built My First Website to Showcase My VEX V5RC Robotics Journ
 | Layer | Technology |
 |---|---|
 | Backend | Node.js, Next.js, Flask |
-| Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript |
+| Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript, Tailwind CSS|
 | Tools | Git, GitHub, VS Code, and Tiled |
-| Frontend | Next.js 16, React 19, TypeScript, Tailwind CSS, Leaflet, Lucide React |
 | Deployment | GitHub Pages, Render, Vercel |
 
 ---
