@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
- <img width="3840" height="1440" alt="GitHub Banner (11)" src="https://github.com/user-attachments/assets/d58a28e2-8fd0-411d-a593-dc2f75bab3e0" />
+ <img width="1920" height="720" alt="GitHub_Banner_looping" src="https://github.com/user-attachments/assets/7ac0d3ee-55d2-404a-b70e-246dc715d135" />
 </p>
 
 ## About Me
