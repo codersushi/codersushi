@@ -12,7 +12,7 @@
 ```python
 print("Student / Developer / Builder")
 
-console.log("Passionate about web development, robotics, and hackathons");
+console.log("Passionate about robotics, engineering, and hardware coding");
 
 console.info("I enjoy building projects that solve real-world problems");
 
@@ -64,24 +64,14 @@ https://hydrogensulfide-radar-1.onrender.com
 #### Beyond The Bot – Vex Robotics (V5RC) Showcase
 
 
-```
-The Link is Currently Hidden Until The 2026 - 2027 VEX V5 Override Season Ends
-```
+
+https://beyond-the-bot.vercel.app
+
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codersushi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=codersushi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codersushi&layout=compact&theme=tokyonight" />
-</p>
+ <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SushiTheCoder&layout=compact&theme=tokyonight&langs_count=1000&size_weight=0.5&count_weight=0.5" />
 
 ---
 
@@ -92,7 +82,5 @@ GitHub: https://github.com/codersushi
 
 Email: sushiminiworld@gmail.com
 
-
-Vercel: https://vercel.com/codersushi
 
 </div>
