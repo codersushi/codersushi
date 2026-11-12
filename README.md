@@ -51,16 +51,13 @@ CyberPatriots Platinum State Round Qualifier - Hardened multiple VMs w/h Vulnera
 
 ## Featured Organizations
 
-<img width="1280" height="320" alt="Github Banner Art (1)" src="https://github.com/user-attachments/assets/6564debf-d905-4d17-ba85-c146fb22944b" />
+<a href="https://github.com/V5-13155U">
+  <img width="1280" height="320" alt="Github Banner Art (1)" src="https://github.com/user-attachments/assets/6564debf-d905-4d17-ba85-c146fb22944b" />
+</a>
 
-#### My Robotic Team's Codebase For Autonomous Programs
-
-········································································································································································································
-
-<img width="1280" height="320" alt="Github Banner Art (2)" src="https://github.com/user-attachments/assets/805279a0-62c8-4ce5-a979-99ceea55c793" />
-
-#### My CyberPatriot Team's Codebase For VM Hardening Scripts
-
+<a href="https://github.com/CYPAT-19-0798">
+  <img width="1280" height="320" alt="Github Banner Art (1)" src="https://github.com/user-attachments/assets/6564debf-d905-4d17-ba85-c146fb22944b" />
+</a>
 ---
 
 ## GitHub Stats
