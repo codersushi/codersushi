@@ -49,10 +49,26 @@ CyberPatriots Platinum State Round Qualifier - Hardened multiple VMs w/h Vulnera
 
 ---
 
+## Featured Organizations
+
+<img width="1280" height="320" alt="Github Banner Art (1)" src="https://github.com/user-attachments/assets/6564debf-d905-4d17-ba85-c146fb22944b" />
+
+#### My Robotic Team's Codebase For Autonomous Programs
+
+········································································································································································································
+
+<img width="1280" height="320" alt="Github Banner Art (2)" src="https://github.com/user-attachments/assets/805279a0-62c8-4ce5-a979-99ceea55c793" />
+
+#### My CyberPatriot Team's Codebase For VM Hardening Scripts
+
+---
+
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SushiTheCoder)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codersushi&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=codersushi&show_icons=true&include_all_commits=true&theme=gruvbox_light)
 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=codersushi&layout=compact&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api/top-langs?username=codersushi&layout=compact&theme=gruvbox_light)
 
 ---
 
@@ -61,7 +77,5 @@ CyberPatriots Platinum State Round Qualifier - Hardened multiple VMs w/h Vulnera
 GitHub: [https://github.com/codersushi](https://github.com/codersushi)
 
 Email: sushiminiworld@gmail.com
-
-Alternate Email: serpentmc67@gmail.com
 
 </div>
