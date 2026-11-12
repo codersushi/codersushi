@@ -1,47 +1,31 @@
+
 <div align="center">
 
 <p align="center">
- <img width="1920" height="720" alt="GitHub_Banner_looping" src="https://github.com/user-attachments/assets/7ac0d3ee-55d2-404a-b70e-246dc715d135" />
+<img width="3840" height="1440" alt="GitHub Banner (19)" src="https://github.com/user-attachments/assets/cfd56ee9-676d-40ad-b608-81925da9ca0d" />
 </p>
 
-## About Me
-
-**Hi, I'm Sushanth Dhilipvenkatesh, But Call Me Sushi!**
-
-
-```python
-print("Student / Developer / Builder")
-
-console.log("Passionate about robotics, engineering, and hardware coding");
-
-console.info("I enjoy building projects that solve real-world problems");
-
-echo "Always learning and experimenting with new tech!"
-```
-
-
-<strong> *"sometimes it's best to let life take its course, but always bring a compass"* </strong><br/>
-— Sushi
+<div align="center">
 
 ---
 
-## Achievements + Awards
+## Achievements & Awards
 
 ```
 Most Innovative Solution - Awarded by UNCC (2026 Hackathon) for Radon Radar
 
-Third Place Winners - Awarded by WeatherWise (2026 Hackathon) for Strike Risk
+Third Place Winner - Awarded by WeatherWise (2026 Hackathon) for Strike Risk
 
-Beyond The Bot - I Built My First Website to Showcase My VEX V5RC Robotics Journey
+CyberPatriots Platinum State Round Qualifier - Hardened multiple VMs w/h Vulnerabilities
 ```
+
 ---
 
 ## Tech Stack
 
 | Layer | Technology |
 |---|---|
-| Backend | Node.js, Next.js, Flask |
-| Frontend | HTML, CSS, JavaScript, React, Next.js, Leaflet, Lucide React, TypeScript, Tailwind CSS|
+| Coding Languages | HTML, CSS, C++, React, TypeScript |
 | Tools | Git, GitHub, VS Code, and Tiled |
 | Deployment | GitHub Pages, Render, Vercel |
 
@@ -53,34 +37,31 @@ Beyond The Bot - I Built My First Website to Showcase My VEX V5RC Robotics Journ
 
 #### Hydrogen Sulfide Detector – Detects Harmful H2S Levels
 
+[https://hydrogensulfide-radar-1.onrender.com](https://hydrogensulfide-radar-1.onrender.com)
 
-https://hydrogensulfide-radar-1.onrender.com  
-
-
-································································································································································································
+········································································································································································································
 
 <img width="720" height="270" alt="GitHub Banner (15)" src="https://github.com/user-attachments/assets/bb1c51eb-62ff-4d21-ae94-f801adebbc5f" />
 
 #### Beyond The Bot – Vex Robotics (V5RC) Showcase
 
-
-
-https://beyond-the-bot.vercel.app
+[https://beyond-the-bot.vercel.app](https://beyond-the-bot.vercel.app)
 
 ---
 
 ## GitHub Stats
 
- <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SushiTheCoder&layout=compact&theme=tokyonight&langs_count=1000&size_weight=0.5&count_weight=0.5" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SushiTheCoder)](https://github.com/stats-organization/github-stats-extended)
+
 
 ---
 
 ## Connect With Me
 
-GitHub: https://github.com/codersushi
-
+GitHub: [https://github.com/codersushi](https://github.com/codersushi)
 
 Email: sushiminiworld@gmail.com
 
+Alternate Email: serpentmc67@gmail.com
 
 </div>
