@@ -38,7 +38,7 @@ CyberPatriots Platinum State Round Qualifier - Hardened multiple VMs w/h Vulnera
 </a>
 
 <a href="https://github.com/CYPAT-19-0798">
-  <img width="1280" height="320" alt="Github Banner Art (2)" src="https://github.com/user-attachments/assets/67bdc8c5-9813-4259-ad85-5778da9588e6" />
+<img width="1280" height="320" alt="Github Banner Art (4)" src="https://github.com/user-attachments/assets/d024b13b-c368-4bcf-ab0d-ec5c991ff8cb" />
 </a>
 
 ## GitHub Stats
